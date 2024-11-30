@@ -31,3 +31,4 @@ Display | 1080 x 2400 pixels, 6.7 inches, 60/120 hz
 fastboot flash vendor_boot vendor_boot.img
 ```
 # twrp_device_nothing_Tetris-
+# twrp_device_nothing_Tetris-
