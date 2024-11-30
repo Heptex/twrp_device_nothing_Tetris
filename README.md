@@ -27,8 +27,9 @@ Display | 1080 x 2400 pixels, 6.7 inches, 60/120 hz
 
 ## After you've built a custom recovery using this tree, you can enter the following command in fastboot to flash it (yes, the recovery is stored in `vendor_boot`)
 
+## Thanks to (Siddharth)[https://github.com/sidharthify] For Base trees. ❤️
+
+
 ```
 fastboot flash vendor_boot vendor_boot.img
 ```
-# twrp_device_nothing_Tetris-
-# twrp_device_nothing_Tetris-
