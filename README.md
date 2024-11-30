@@ -7,7 +7,6 @@
 #### The Linux Kernel binary and it's accompanying modules are provided by [Nothing Technology Limited](https://github.com/NothingOSS) under the GNU Public License
 
 
-======================================
 
 The CMF Phone 1 (codenamed _"Tetris"_) is a mid-range smartphone from Nothing released in early 2024.
 ![CMF Phone 1](https://in.cmf.tech/cdn/shop/files/Engineering_aesthetics_1600x.png?v=1720164742)
@@ -16,7 +15,7 @@ The CMF Phone 1 (codenamed _"Tetris"_) is a mid-range smartphone from Nothing re
 
 Basic   | Spec Sheet
 -------:|:-------------------------
-CPU     | 4x ARM Cortex-A78 @ 2.50 GHz  |  4x ARM Cortex-A55 @ 2.00 GHz
+CPU     | 4x ARM Cortex-A78 @ 2.50 GHz • 4x ARM Cortex-A55 @ 2.00 GHz
 Chipset | Mediatek Dimensity 7300 5G
 GPU     | Mali-G615 MC2
 Memory  | 6/8 GB RAM
